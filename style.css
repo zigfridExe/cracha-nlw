@@ -15,9 +15,9 @@ body {
 
 main {
   background: url(images/background.svg) no-repeat center/cover;
-  width: 100vw;
+  width: 450px;
   min-height: 812px;
-  height: 100vh;
+  height: 100px;
   border-radius: 10px;
 }
 
