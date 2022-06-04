@@ -15,9 +15,9 @@ body {
 
 main {
   background: url(images/background.svg) no-repeat center/cover;
-  width: 450px;
-  min-height: 812px;
-  height: 100px;
+  width: 25em;
+  min-height: 55em;
+  height: 8em;
   border-radius: 10px;
 }
 
@@ -44,7 +44,7 @@ main {
   z-index: 1;
 }
 
-.avatar > img {
+.avatar>img {
   width: 10rem;
   height: 11.5rem;
   object-fit: cover;
